@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-// by default runs after every re-render
+// by default runs after every re-render | useEffect每次都在重新渲染结束后运行
 // cleanup function
 // second parameter
 const UseEffectBasics = () => {
